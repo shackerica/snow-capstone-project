@@ -1,1 +1,2 @@
-# snow-capstone-project
+# ServiceNow Capstone Project Repository
+This repository highlights my involvement in the ServiceNow Capstone Project, where I'm applying concepts learned in the ServiceNow Administration Fundamentals course to real-world scenarios using my app, Strawberry SupportHub. I'm actively tackling tasks related to Incident Management Configuration, User Administration, Service Catalog Automation, Knowledge Base Management, Task Assignment, and Scheduled Reports.
