@@ -13,3 +13,18 @@ For this task, I took the following steps:
 4. Modified the Category field to include 'sFone Model' as a new choice.
 
 https://www.loom.com/share/0bfa63f663c74f95bac15bbb74309442
+
+### Task 2: User Administration
+
+For this task, I took the following steps:
+
+1. Created a new user group named "Strawberry Support" under the existing "Service Desk" group.
+2. Added the "itil" role to the "Strawberry Support" group and designated Fred Luddy as the group manager.
+3. Added the existing users Beth Anglin, Bud Richman, David Loo, Kara Prince, and Waldo Edberg to the "Strawberry Support" group.
+4. Added the "Manager" field to the form layout for user records and selected Fred Luddy as the manager for Kara Prince.
+
+Part 1:
+https://www.loom.com/share/5e9e63133eb043078acd5f59c36f789b?sid=af74135d-6497-4b89-95e8-4d511f711bcb
+
+Part 2: 
+https://www.loom.com/share/89658af830ab4d4cb837cc366383796c?sid=2d329758-0531-4b92-a143-0dadb8973da2
